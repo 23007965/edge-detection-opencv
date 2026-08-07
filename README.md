@@ -38,7 +38,8 @@ plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
 plt.title('Original Image')
 plt.axis('off')
 ```
-<img width="581" height="415" alt="image" src="https://github.com/user-attachments/assets/0832ce46-a4cf-4f3b-931b-713f3b4fa44c" />
+
+<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/13a2b5d7-8893-4cf2-be3b-e63b873a26e8" />
 
 
 ### SOBEL EDGE DETECTOR
@@ -51,7 +52,8 @@ plt.imshow(sobel_combined, cmap='gray')
 plt.title('Sobel Edge Detection')
 plt.axis('off')
 ```
-<img width="598" height="417" alt="image" src="https://github.com/user-attachments/assets/412d2120-af08-4b02-a2f0-3ab1e7f7f2ac" />
+<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/3d0422d0-a9dd-4de1-b645-83701a8308c1" />
+
 
 
 ### LAPLACIAN EDGE DETECTOR
@@ -62,7 +64,8 @@ plt.imshow(laplacian, cmap='gray')
 plt.title('Laplacian Edge Detection')
 plt.axis('off')
 ```
-<img width="583" height="412" alt="image" src="https://github.com/user-attachments/assets/b981fd76-afa2-4721-9e82-4df504f7b8ae" />
+<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/9d37a723-7995-4ebf-b6d5-a190f0604853" />
+
 
 
 ### CANNY EDGE DETECTOR
@@ -73,7 +76,8 @@ plt.imshow(canny_edges, cmap='gray')
 plt.title('Canny Edge Detection')
 plt.axis('off')  
 ```
-<img width="596" height="415" alt="image" src="https://github.com/user-attachments/assets/f304d758-5b5b-488a-96e8-26cf2bb19412" />
+<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/65ae8938-f260-4e6e-a590-cfd0700cbf0f" />
+
 
 
 ## Result:
